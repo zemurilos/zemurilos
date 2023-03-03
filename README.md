@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zemurilos
 - 👀 I’m interested in Hardware and Software development
-- 🌱 I’m currently learning Altium and Zuken PCB design
 - 📫 How to reach me: https://www.linkedin.com/in/murilo-fabricio-silva/ or zemurilos@gmail.com
 
 <!---
